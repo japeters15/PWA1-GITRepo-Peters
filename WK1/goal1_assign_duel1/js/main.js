@@ -4,6 +4,15 @@
  Goal1: Assignment Duel1
  */
 
+/*PseudoCode
+1. Create variables for both players
+2. Start both players with 100 point
+3. Create fight & winnerCheck functions
+4. if fight passes 10 rounds add break command
+5. Display winner or no winner
+
+
+ */
 // self-executing function
 (function(){
 
