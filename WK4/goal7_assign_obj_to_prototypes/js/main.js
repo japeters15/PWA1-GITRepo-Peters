@@ -24,13 +24,29 @@ Ex.  var names = [
 
 //2.Create a "FOR loop" and place each reference of the object in an array called "People".
 
+Ex.
+    var people = {name1:"Janay, student", name2:"Danielle, Mom", name3:"Nina, Child", name4:"Chare, Baby", name5:"Jude, Teacher"J}
+
+    for (people){
+    code block to be executed
+}
+
 //3.randomly chose a name (using the Math.random() method)
 // the names array is sent to the constructor of the person along with what row number in the HTML the information will be displayed in.
-        Ex: var person = new Person(names[2],someRow);
+        Ex: var people = new Person(names[2],someRow);
+
+        function getRandom(people){
+            return Math.random (people);
+        }
+}
 
 
 //4.Create a function called "populateHTML" (outputs the person's name and person's job, on the web page.)
 //NOT allow duplicate names to appear.!!!
+Ex.
+    function populateHTML(people){
+        return people;
+    }
 
 
 //5.Set up an Interval that calls a runUpdate() function 30 times a second.
