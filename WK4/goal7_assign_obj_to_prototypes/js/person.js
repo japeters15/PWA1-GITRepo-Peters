@@ -20,6 +20,5 @@
     //row: like the name property, this is set in this constructor.
 
 //Display the initial action of the person in 3rd column.
-The Person object must have an update() function added to its prototype. The purpose of this update() function, which is called from the main.js file,
-    is to change the action of the person every so often, this is based on the interval instructions given above (approx. once every 5 seconds or so)
-and display that change in the HTML in column 3.
+//The Person object must have an update() function added to its prototype. (called from the main.js file)
+
