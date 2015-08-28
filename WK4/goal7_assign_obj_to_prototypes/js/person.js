@@ -9,8 +9,8 @@
 
 //Two variables, "jobs" and "actions"
 //2.The jobs variable is an array of 4 or more jobs. The actions variable is also an array of some actions a person could do.
-    ex: Person.jobs = ["teacher","farmer","student","pilot"];
-    ex: Person.actions = ["sleeping","eating","working"];
+    ex: Person.jobs = ["Student","Mother","Child","Teacher, Cook"];
+    ex: Person.actions = ["Sleeping","Eating","Working, Cooking, Laughing"];
 
 //3.The Person constructor should also have four properties:
     //name: The name of the person. (This property is set in this constructor for the Person.)
@@ -20,5 +20,6 @@
     //row: like the name property, this is set in this constructor.
 
 //4.Display the initial action of the person in 3rd column.
+
 //5.The Person object must have an update() function added to its prototype. (called from the main.js file)
 

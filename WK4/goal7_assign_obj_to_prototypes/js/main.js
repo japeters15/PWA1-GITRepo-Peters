@@ -25,7 +25,7 @@ Ex.  var names = [
 //2.Create a "FOR loop" and place each reference of the object in an array called "People".
 
 Ex.
-    var people = {name1:"Janay, student", name2:"Danielle, Mom", name3:"Nina, Child", name4:"Chare, Baby", name5:"Jude, Teacher"J}
+    var people = {name1:"Janay", name2:"Danielle", name3:"Nina", name4:"Chare", name5:"Jude"J}
 
     for (people){
     code block to be executed
