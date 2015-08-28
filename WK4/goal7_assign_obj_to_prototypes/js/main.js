@@ -13,6 +13,11 @@
 // Jude
 // Will be randomly selected in the output display.
 
+Ex.  var names = [
+              "Janay",
+              "Danielle",
+              "Nina"
+        ];
 
 
 //Create a "FOR loop" and place each reference of the object in an array called "People".
@@ -22,9 +27,9 @@
         Ex: var person = new Person(names[someName],someRow);
 
 
-
 //Create a function called "populateHTML" (outputs the person's name and person's job, on the web page.)
 //NOT allow duplicate names to appear.!!!
+
 
 //Set up an Interval that calls a runUpdate() function 30 times a second.
     Example: "setInterval(runUpdate, 1000 / 30);"
